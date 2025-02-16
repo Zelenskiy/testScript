@@ -1,6 +1,6 @@
 {
     "repo_path": "./testFolder",
-    "branch": "main",
-    "commit_message": "Оновлення файлів через скрипт"
+    "branch": "gh-pages",
+    "commit_message": "Оновлення файлів через скрипт 2"
   }
   
